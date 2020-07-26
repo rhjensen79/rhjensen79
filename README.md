@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi and welcome to my profile :-) 
+
 
 <!--
 **rhjensen79/rhjensen79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
