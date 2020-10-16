@@ -1,5 +1,5 @@
 # About
-I am a Lead Cloud Management Specialist, working for VMware.
+I am a Lead Cloud Management Specialist, from Denmark, working for VMware.
 I have an infrastructure background, but i'm trying to learn more dev and less ops, and if i'm lucky, mayby how to put them together :-)
 
 Most code you find here, is created for demos, so use accordingly. 
