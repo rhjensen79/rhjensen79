@@ -8,6 +8,13 @@ Most code you find here, is created for demos, so use accordingly.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhjensen79)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Public activities can be found here : https://github.com/rhjensen79/public
+
+---
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **rhjensen79/rhjensen79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
