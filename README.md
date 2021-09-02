@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello Buildpacks, goodbye Dockerfiles](https://www.robert-jensen.dk/posts/2021-hello-buildpacks-goodbye-dockerfiles/)
 - [Disable Windows Print Spooler to avoid Exploit CVE-2021-1675](https://www.robert-jensen.dk/posts/2021-disable-print-spooler-exploit/)
 - [Auto Install Cloudbase-Init](https://www.robert-jensen.dk/posts/2021-auto-install-cloudbase-init/)
 - [How to Level Up, as a vSphere admin](https://www.robert-jensen.dk/posts/2021-vmug-level-up/)
 - [Install Loginsight agent using SaltStack](https://www.robert-jensen.dk/posts/2021-install-loginsight-agent-using-saltstack/)
-- [New Project](https://www.robert-jensen.dk/posts/2021-new-project/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
