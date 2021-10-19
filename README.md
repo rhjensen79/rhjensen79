@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Microk8s With Traefik and Metallb](https://www.robert-jensen.dk/posts/2021-microk8s-with-traefik-and-metallb/)
 - [Using Github Actions to Build Containers (and host them)](https://www.robert-jensen.dk/posts/2021-using-github-actions-to-build-containers/)
 - [Hello Buildpacks, goodbye Dockerfiles](https://www.robert-jensen.dk/posts/2021-hello-buildpacks-goodbye-dockerfiles/)
 - [Disable Windows Print Spooler to avoid Exploit CVE-2021-1675](https://www.robert-jensen.dk/posts/2021-disable-print-spooler-exploit/)
 - [Auto Install Cloudbase-Init](https://www.robert-jensen.dk/posts/2021-auto-install-cloudbase-init/)
-- [How to Level Up, as a vSphere admin](https://www.robert-jensen.dk/posts/2021-vmug-level-up/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
