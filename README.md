@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Access to POD, without opening firewall, on Tanzu Community Edition](https://www.robert-jensen.dk/posts/2022-remote-access-tce/)
 - [Tanzu Application Platform Accelerator with YTT](https://www.robert-jensen.dk/posts/2022-tap-accelerator-ytt/)
 - [Using Github Actions With Tailscale to build in the cloud and Deploy Locally](https://www.robert-jensen.dk/posts/2022-using-github-actions-with-tailscale-to-deploy-locally/)
 - [Manage Multiple Kubeconfigs Using iCloud and Kubectx](https://www.robert-jensen.dk/posts/2021-manage-multiple-kubeconfigs-using-icloud-and-kubectx/)
 - [New Role](https://www.robert-jensen.dk/posts/2021-new-role/)
-- [Installing Microk8s With Traefik and Metallb](https://www.robert-jensen.dk/posts/2021-microk8s-with-traefik-and-metallb/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
