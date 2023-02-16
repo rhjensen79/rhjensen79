@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes with Continuous Delivery included](https://www.robert-jensen.dk/posts/2023-k8s-with-cd/)
 - [Static files in Buildpacks](https://www.robert-jensen.dk/posts/2023-static-files-in-buildpacks/)
 - [Events where i&#39;m speaking](https://www.robert-jensen.dk/events/)
 - [Auto generating TLS Certificates for Tanzu Application Platform &lpar;TAP&rpar; Workloads](https://www.robert-jensen.dk/posts/2022-auto-tls-certificate-in-tap/)
 - [Remote Access to POD, without opening firewall, on Tanzu Community Edition](https://www.robert-jensen.dk/posts/2022-remote-access-tce/)
-- [Tanzu Application Platform Accelerator with YTT](https://www.robert-jensen.dk/posts/2022-tap-accelerator-ytt/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
