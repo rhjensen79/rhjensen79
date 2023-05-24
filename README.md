@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build, Publish and host your Docker images on Github Registry](https://www.robert-jensen.dk/posts/2023-build-publish-docker-on-github/)
 - [Double Reverse Proxy](https://www.robert-jensen.dk/posts/2023-double-reverse-proxy/)
 - [Kubernetes with Continuous Delivery included](https://www.robert-jensen.dk/posts/2023-k8s-with-cd/)
 - [Static files in Buildpacks](https://www.robert-jensen.dk/posts/2023-static-files-in-buildpacks/)
 - [Events where i&#39;m speaking](https://www.robert-jensen.dk/events/)
-- [Auto generating TLS Certificates for Tanzu Application Platform &lpar;TAP&rpar; Workloads](https://www.robert-jensen.dk/posts/2022-auto-tls-certificate-in-tap/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
