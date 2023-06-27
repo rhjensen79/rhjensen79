@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When Kubernetes is not the right choice](https://www.robert-jensen.dk/posts/2023-when-k8s-is-not-the-right-choice/)
 - [Build, Publish and host your Docker images on Github Registry](https://www.robert-jensen.dk/posts/2023-build-publish-docker-on-github/)
 - [Double Reverse Proxy](https://www.robert-jensen.dk/posts/2023-double-reverse-proxy/)
 - [Kubernetes with Continuous Delivery included](https://www.robert-jensen.dk/posts/2023-k8s-with-cd/)
 - [Static files in Buildpacks](https://www.robert-jensen.dk/posts/2023-static-files-in-buildpacks/)
-- [Events where i&#39;m speaking](https://www.robert-jensen.dk/events/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
