@@ -14,11 +14,11 @@ Most code you find here, is created for demos, so use accordingly.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running External DNS with CloudFlare](https://www.robert-jensen.dk/posts/2024-external-dns-with-cloudflare/)
+- [Adding extra vlan/portgroup to a Tanzu TKGS enviroment](https://www.robert-jensen.dk/posts/2024-add-vlan-to-tanzu/)
+- [Fixing Cilium on Kind](https://www.robert-jensen.dk/posts/2024-fixing-cilium-with-kind/)
 - [VScode Devcontainer and Git signing](https://www.robert-jensen.dk/posts/2023-devcontainer-and-git-signing/)
 - [Tanzu Basic Videos](https://www.robert-jensen.dk/posts/2023-tanzu-basic-videos/)
-- [When Kubernetes is not the right choice](https://www.robert-jensen.dk/posts/2023-when-k8s-is-not-the-right-choice/)
-- [Build, Publish and host your Docker images on Github Registry](https://www.robert-jensen.dk/posts/2023-build-publish-docker-on-github/)
-- [Double Reverse Proxy](https://www.robert-jensen.dk/posts/2023-double-reverse-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
