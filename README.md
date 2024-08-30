@@ -17,8 +17,8 @@ Most code you find here, is created for demos, so use accordingly.
 - [Enhance Kubectl with Local AI using Ollama and Open Source LLMs](https://www.robert-jensen.dk/posts/2024-kubectl-with-local-ai/)
 - [Running External DNS with CloudFlare](https://www.robert-jensen.dk/posts/2024-external-dns-with-cloudflare/)
 - [Adding extra vlan/portgroup to a Tanzu TKGS enviroment](https://www.robert-jensen.dk/posts/2024-add-vlan-to-tanzu/)
+- [VCF Create Transport Node Collection fails at 48 percent](https://www.robert-jensen.dk/posts/2024-vcf-create-transport-node-collection-fails/)
 - [Fixing Cilium on Kind](https://www.robert-jensen.dk/posts/2024-fixing-cilium-with-kind/)
-- [VScode Devcontainer and Git signing](https://www.robert-jensen.dk/posts/2023-devcontainer-and-git-signing/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
