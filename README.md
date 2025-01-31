@@ -2,7 +2,7 @@
 
 I am an independant contractor, at my company [12F](https://www.12f.dk) (Reference to the [12 factor app](https://12factor.net)), helping customers move into the wonderfull world of cloud Native.
 
-I do that, with a combined knowledge of the Cloud Native ecosystem, and values, and my background in Virtualization, working for VMware.
+I do that, with a combined knowledge of the Cloud Native ecosystem and values, and my background in Virtualization, working for VMware.
 
 Most code you find here, is created for demos, so use accordingly. 
 ---
